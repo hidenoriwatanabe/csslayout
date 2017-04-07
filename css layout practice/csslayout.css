@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+body{
+	/*background: slategray;*/
+}
+
+#eyecatch{
+	/*background: url('nonki.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50% 10%;
+	height: 100px;*/
+}
+
+.container{
+	width: 500px;
+	margin: 0 auto;
+	/*background: pink;*/
+	
+}
+header{
+	background: tomato;
+}
+
+main{
+	background: skyblue;
+}
+#left{
+	background: limegreen;
+	float: left;
+	width: 200px;
+}
+#right{
+	background: lightgreen;
+	float: left;
+	width: 300px;
+}
+
+.clearfix::after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.clear{
+	overflow: hidden;
+}
+footer{
+	clear: both;
+	background: slategray;
+}

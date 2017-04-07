@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>CSS Layout Practice</title>
+	<link rel="stylesheet" type="text/css "href="csslayout.css">
+</head>
+<body>
+	<header>
+	header
+	</header>
+	<main>
+	main
+	</main>
+	<footer>
+	footer
+	</footer>
+</body>
+</html>
